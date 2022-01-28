@@ -1,10 +1,5 @@
 </head>
 <body>
-<div id="Outer">
-
-<div class="banner" style="min-height:90px"><div id="div-gpt-ad-1456148316198-0">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display("div-gpt-ad-1456148316198-0"); });</script>
-</div></div>
 
 <div id="Inner">
 
